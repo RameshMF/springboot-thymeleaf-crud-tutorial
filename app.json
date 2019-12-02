@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot Heroku Demo",
+  "description": "This is a small demo application for showing how to run a Spring Boot application on Heroku.",
+  "repository": "https://github.com/fake-deli-ca/springboot-thymeleaf-crud-tutorial",
+  "image": "heroku/java"
+}
